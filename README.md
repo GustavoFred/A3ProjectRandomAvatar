@@ -1,4 +1,7 @@
 <img src="./public/logo.png" style="margin-bottom: 10px;"/>
+# Integrantes
+* Gustavo Angelozi Frederico
+
  
 > Versão alpha beta gama ....
 >
