@@ -3,10 +3,8 @@
 # Integrantes
 
 * Gustavo Angelozi Frederico
+* Isaque Santos Fangundes
 
- 
-> Versão alpha beta gama ....
->
 
 ## Como rodar?
 
