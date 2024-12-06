@@ -2,9 +2,11 @@
 
 # Integrantes
 
-* Gustavo Angelozi Frederico
-* Isaque Santos Fangundes
-
+* Aymê Lozano - RA: 822148400
+* Isaque Santos Fagundes - RA: 822149951
+* Gustavo Angelozi Frederico - RA: 822145569
+* Kaique da Silva Mendonça - RA: 822163119
+* Leonardo Nascimento - RA: 822145990
 
 ## Como rodar?
 
